@@ -1,1 +1,3 @@
-pub mod pb;
+mod pb;
+
+pub use pb::*;
